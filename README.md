@@ -1,7 +1,6 @@
 ## 👋 Welcome to my GitHub!
 <hr>
-I’m Josué Ngoma, a full-stack developer passionate about building robust, high-performance, and scalable web and mobile applications. With solid expertise in backend technologies (Node.js, SQL) and frontend (React, Typescript), I enjoy tackling technical challenges and designing innovative solutions.
-<hr>
+I’m Josué Ngoma, a full-stack developer passionate about building robust, high-performance, and scalable web and mobile applications. 
 <hr>
 
 
