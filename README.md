@@ -67,7 +67,7 @@ Je développe également des programmes embarqués et conçois des **prototypes 
 ## 📫 Me contacter  
 - ✉️ **Email** : josuengomajkn@gmail.com  
 - 💼 **LinkedIn** : [linkedin.com/in/josue-ngoma](https://www.linkedin.com/in/josue-ngoma-4438842a8/)  
-- 🌍 **Portfolio** : [josue-ngoma-folio.dev]([https://josuengoma.dev](https://josue-ngoma-folio.onrender.com/))  
+- 🌍 **Portfolio** : [https://josuengoma.dev](https://josue-ngoma-folio.onrender.com/))  
 
 ---
 ✨ _« Le code est poésie, mais il doit toujours compiler. »_ ✨
